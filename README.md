@@ -28,7 +28,7 @@ This project explores customer churn prediction and segmentation using machine l
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/churn-segmentation.git
+   git clone https://github.com/kislayanand1803/customer-retention-insights.git
 2. Open the notebook in Google Colab:
    - Upload the .ipynb file
    - Run cells sequentially
